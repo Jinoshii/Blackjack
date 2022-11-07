@@ -1,2 +1,2 @@
 # Blackjack
-It's our time Blackjack game.
+It's our tiny Blackjack game.
